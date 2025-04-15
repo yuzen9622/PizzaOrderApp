@@ -46,7 +46,7 @@
 
 ## 專案結構
 
-├── .gitignore
+```├── .gitignore
 ├── .idea
 ├── .gitignore
 ├── codeStyles
@@ -139,6 +139,7 @@
 ├── gradlew
 ├── gradlew.bat
 └── settings.gradle.kts
+```
 
 ## 執行方式
 
