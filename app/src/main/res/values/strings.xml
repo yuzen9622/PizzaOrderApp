@@ -1,0 +1,20 @@
+<resources>
+    <string name="PizzaOrderApp" translatable="false">PizzaOrderApp</string>
+
+    <string name="tv_order_text" translatable="false">你的訂單:無</string>
+    <string name="order_main_text">點餐</string>
+    <string name="order_side_text">點副餐</string>
+    <string name="store_info_text">店家資訊</string>
+    <string name="choose_pizza">選擇 Pizza</string>
+    <string name="pepperoni_pizza">Pepperoni Pizza</string>
+    <string name="margherita_pizza">Margherita Pizza</string>
+    <string name="choose_side">選擇副餐</string>
+    <string name="fries_side">薯條</string>
+    <string name="salad_side">沙拉</string>
+    <string name="image_alt">頭貼</string>
+    <string name="store_btn_text">新增店家資訊</string>
+    <string name="new_store">新增店家資訊</string>
+    <string name="store_name">店家名稱</string>
+    <string name="store_phone">店家電話</string>
+    <string name="store_address">店家地址</string>
+</resources>
